@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.glitchr.dev/public-repository/symfony/bundles/base-bundle/ux"
+    "url": "git+https://github.com/glitchr-studio/ux-google.git"
   },
   "author": "Marco Meyer <marco.meyer@glitchr.io>",
   "description": "",
